@@ -7,7 +7,7 @@ FindingInfo - Python package for computing linguistic complexity and Shannon's e
 
 ![FindingInfo Logo](/findingInfo_logo.png)
 
-_Logo designed by: Todd Richman_
+_Logo designed by: Todd Richmann_
 
 
 ### Usage:
